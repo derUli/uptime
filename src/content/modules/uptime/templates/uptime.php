@@ -1,0 +1,1 @@
+<pre><?php Template::escape(ViewBag::get("uptime"))?></pre>
